@@ -10,7 +10,7 @@
 <info></info>
 </channel>
 
-<channels>
+channels>
 <channel>
 <name>[COLOR gold]Spanisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</thumbnail>
@@ -19,7 +19,7 @@
 <info></info>
 </channel>
 
-<channels>
+channels>
 <channel>
 <name>[COLOR gold]Italienisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/world-cup-italy-flag.jpg</thumbnail>
@@ -28,7 +28,7 @@
 <info></info>
 </channel>
 
-<channels>
+channels>
 <channel>
 <name>[COLOR gold]Portugiesisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/aufkleber-flagge-von-portugal.jpg.jpg</thumbnail>
