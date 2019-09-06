@@ -10,7 +10,6 @@
 <info></info>
 </channel>
 
-channels>
 <channel>
 <name>[COLOR gold]Spanisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</thumbnail>
@@ -19,7 +18,6 @@ channels>
 <info></info>
 </channel>
 
-channels>
 <channel>
 <name>[COLOR gold]Italienisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/world-cup-italy-flag.jpg</thumbnail>
@@ -28,7 +26,6 @@ channels>
 <info></info>
 </channel>
 
-channels>
 <channel>
 <name>[COLOR gold]Portugiesisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/aufkleber-flagge-von-portugal.jpg.jpg</thumbnail>
@@ -37,8 +34,6 @@ channels>
 <info></info>
 </channel>
 
-
-<channels>
 channel>
 <name>[COLOR gold]Amerikanisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/USA%20amerikanische%20Flagge.jpg</thumbnail>
@@ -47,8 +42,6 @@ channel>
 <info></info>
 </channel>
 
-
-<channels>
 channel>
 <name>[COLOR gold]Arabisch[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -57,7 +50,6 @@ channel>
 <info></info>
 </channel>
 
-<channels>
 <channel>
 <name>[COLOR gold]Brasilianisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/Brasilien.jpg</thumbnail>
@@ -74,3 +66,6 @@ channel>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/IMG_20190731_225457.jpg</fanart>
 <info></info>
 </channel>
+
+
+made by SunriseKodi
