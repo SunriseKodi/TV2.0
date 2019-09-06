@@ -10,7 +10,7 @@
 <info></info>
 </channel>
 
-<channel>
+channel>
 <name>[COLOR gold]Spanisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/spanisch.txt</externallink>
@@ -18,7 +18,7 @@
 <info></info>
 </channel>
 
-<channel>
+channel>
 <name>[COLOR gold]Italienisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/world-cup-italy-flag.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/italienisch.txt</externallink>
@@ -26,7 +26,7 @@
 <info></info>
 </channel>
 
-<channel>
+channel>
 <name>[COLOR gold]Portugiesisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/aufkleber-flagge-von-portugal.jpg.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Portugiesisch.txt</externallink>
@@ -50,7 +50,7 @@ channel>
 <info></info>
 </channel>
 
-<channel>
+channel>
 <name>[COLOR gold]Brasilianisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/Brasilien.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Brasilianisch.txt</externallink>
@@ -58,7 +58,7 @@ channel>
 <info></info>
 </channel>
 
-<channels>
+channels>
 <channel>
 <name>[COLOR gold]Franzoesisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/IMG_20190731_225457.jpg</thumbnail>
