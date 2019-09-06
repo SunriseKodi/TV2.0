@@ -1,0 +1,11 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>[COLOR gold]Server 1[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/IMG_20190731_225457.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/franz%C3%B6sisch.m3u</externallink>
+<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/IMG_20190731_225457.jpg</fanart>
+<info></info>
+</channel>
