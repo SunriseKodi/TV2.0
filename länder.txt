@@ -1,0 +1,76 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>[COLOR gold]Deutsch[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/TV2.txt</externallink>
+<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
+<info></info>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR gold]Spanisch[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/spanisch.txt</externallink>
+<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</fanart>
+<info></info>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR gold]Italienisch[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/world-cup-italy-flag.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/italienisch.txt</externallink>
+<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/world-cup-italy-flag.jpg</fanart>
+<info></info>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR gold]Portugiesisch[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/aufkleber-flagge-von-portugal.jpg.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Portugiesisch.txt</externallink>
+<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/aufkleber-flagge-von-portugal.jpg.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channels>
+channel>
+<name>[COLOR gold]Amerikanisch[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/USA%20amerikanische%20Flagge.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Amerikanisch.txt</externallink>
+<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/USA%20amerikanische%20Flagge.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channels>
+channel>
+<name>[COLOR gold]Arabisch[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Arabisch.txt</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR gold]Brasilianisch[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/Brasilien.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Brasilianisch.txt</externallink>
+<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/Brasilien.jpg</fanart>
+<info></info>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR gold]Franzoesisch[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/IMG_20190731_225457.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Franz%C3%B6sisch.txt</externallink>
+<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/IMG_20190731_225457.jpg</fanart>
+<info></info>
+</channel>
