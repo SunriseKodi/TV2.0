@@ -2,13 +2,6 @@
 
 
 <channels>
-<channel>
-<name>[COLOR gold]Sunrise TV[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/welt.txt</externallink>
-<fanart></fanart>
-<info></info>
-
 </channel>
 <channel>
 <name>[COLOR gold]Deutsch[/COLOR]</name>
