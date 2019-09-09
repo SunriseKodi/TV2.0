@@ -1,4 +1,12 @@
 <channel>
+<name>[COLOR gold]Amerikanisch[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/server.txt</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[COLOR gold]Spanisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/spanisch.txt</externallink>
@@ -19,14 +27,6 @@
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/aufkleber-flagge-von-portugal.jpg.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Portugiesisch.txt</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/aufkleber-flagge-von-portugal.jpg.jpg</fanart>
-<info></info>
-</channel>
-
-channel>
-<name>[COLOR gold]Amerikanisch[/COLOR]</name>
-<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/USA%20amerikanische%20Flagge.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Amerikanisch.txt</externallink>
-<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/USA%20amerikanische%20Flagge.jpg</fanart>
 <info></info>
 </channel>
 
