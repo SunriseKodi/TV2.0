@@ -5,7 +5,7 @@
 <channel>
 <name>[COLOR gold]Server1[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/DeServer2.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Server1.m3u</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
