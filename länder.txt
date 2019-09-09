@@ -3,10 +3,37 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Deutsch[/COLOR]</name>
+<name>[COLOR gold]Sunrise TV[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Server1.m3u</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</fanart>
+<info></info>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR gold]Zorro TV[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http://kodi-zorro.com/addon/menu.xml</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR gold]Robin Hood TV[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http://kodibalkan.com/IPTVROBINHOOD/MenuIPTV/menu.xml</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR gold]Voodoo TV[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://pastebin.com/raw/i8FQWG7X</externallink>
+<fanart></fanart>
 <info></info>
 </channel>
 
