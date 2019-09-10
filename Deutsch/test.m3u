@@ -1,0 +1,255 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DAS ERSTE HD (ARD)" tvg-shift="" radio="" tvg-logo="das erste hd.png" group-title="EU Germany",DAS ERSTE HD (ARD)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22545
+#EXTINF:-1 tvg-id="" tvg-name="ARTE HD" tvg-shift="" radio="" tvg-logo="arte hd.png" group-title="EU Germany",ARTE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22544
+#EXTINF:-1 tvg-id="" tvg-name="ZDF HD" tvg-shift="" radio="" tvg-logo="zdf hd.png" group-title="EU Germany",ZDF HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22543
+#EXTINF:-1 tvg-id="" tvg-name="ZDF NEO" tvg-shift="" radio="" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/ZDFNEO.png" group-title="EU Germany",ZDF NEO
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22542
+#EXTINF:-1 tvg-id="" tvg-name="3 SAT" tvg-shift="" radio="" tvg-logo="3sat.png" group-title="EU Germany",3 SAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22541
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-shift="" radio="" tvg-logo="rtl.png" group-title="EU Germany",RTL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22540
+#EXTINF:-1 tvg-id="" tvg-name="RTL2" tvg-shift="" radio="" tvg-logo="rtl2.png" group-title="EU Germany",RTL2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22539
+#EXTINF:-1 tvg-id="" tvg-name="RTL PLUS" tvg-shift="" radio="" tvg-logo="rtlplus.png" group-title="EU Germany",RTL PLUS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22538
+#EXTINF:-1 tvg-id="" tvg-name="RTL CRIME HD" tvg-shift="" radio="" tvg-logo="rtl crime hd.png" group-title="EU Germany",RTL CRIME HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22537
+#EXTINF:-1 tvg-id="" tvg-name="RTL PASSION HD" tvg-shift="" radio="" tvg-logo="rtl passion hd.png" group-title="EU Germany",RTL PASSION HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22536
+#EXTINF:-1 tvg-id="" tvg-name="RTL NITRO" tvg-shift="" radio="" tvg-logo="rtl nitro hd.png" group-title="EU Germany",RTL NITRO
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22535
+#EXTINF:-1 tvg-id="" tvg-name="SUPER RTL" tvg-shift="" radio="" tvg-logo="super rtl hd.png" group-title="EU Germany",SUPER RTL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22534
+#EXTINF:-1 tvg-id="" tvg-name="VOX" tvg-shift="" radio="" tvg-logo="vox.png" group-title="EU Germany",VOX
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22533
+#EXTINF:-1 tvg-id="" tvg-name="EOTV" tvg-shift="" radio="" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/EOTV.png" group-title="EU Germany",EOTV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22532
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ONE" tvg-shift="" radio="" tvg-logo="zee one hd.png" group-title="EU Germany",ZEE ONE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22531
+#EXTINF:-1 tvg-id="" tvg-name="SWR FERNSEHEN BW" tvg-shift="" radio="" tvg-logo="swr fernsehen bw.png" group-title="EU Germany",SWR FERNSEHEN BW
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22530
+#EXTINF:-1 tvg-id="" tvg-name="NITRO" tvg-shift="" radio="" tvg-logo="nitro.png" group-title="EU Germany",NITRO
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22529
+#EXTINF:-1 tvg-id="" tvg-name="RTL HD" tvg-shift="" radio="" tvg-logo="rtl hd.png" group-title="EU Germany",RTL HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22527
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2 HD" tvg-shift="" radio="" tvg-logo="rtl2 hd.png" group-title="EU Germany",RTL 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22526
+#EXTINF:-1 tvg-id="" tvg-name="SAT 1 HD" tvg-shift="" radio="" tvg-logo="sat1.png" group-title="EU Germany",SAT 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22525
+#EXTINF:-1 tvg-id="" tvg-name="SAT 1 GOLD HD" tvg-shift="" radio="" tvg-logo="sat.1 gold hd.png" group-title="EU Germany",SAT 1 GOLD HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22524
+#EXTINF:-1 tvg-id="" tvg-name="SIXX HD" tvg-shift="" radio="" tvg-logo="sixx hd.png" group-title="EU Germany",SIXX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22523
+#EXTINF:-1 tvg-id="" tvg-name="VOX HD" tvg-shift="" radio="" tvg-logo="vox hd.png" group-title="EU Germany",VOX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22522
+#EXTINF:-1 tvg-id="" tvg-name="KABEL 1 HD" tvg-shift="" radio="" tvg-logo="kabel 1 hd.png" group-title="EU Germany",KABEL 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22521
+#EXTINF:-1 tvg-id="" tvg-name="PROSIEBEN HD" tvg-shift="" radio="" tvg-logo="pro 7 hd.png" group-title="EU Germany",PROSIEBEN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22520
+#EXTINF:-1 tvg-id="" tvg-name="PROSIEBEN MAXX HD" tvg-shift="" radio="" tvg-logo="pro7 maxx hd.png" group-title="EU Germany",PROSIEBEN MAXX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22519
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HD" tvg-shift="" radio="" tvg-logo="dmax hd.png" group-title="EU Germany",DMAX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22518
+#EXTINF:-1 tvg-id="" tvg-name="TELE 5 HD" tvg-shift="" radio="" tvg-logo="tele 5 hd.png" group-title="EU Germany",TELE 5 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22517
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ONE HD" tvg-shift="" radio="" tvg-logo="zee one hd.png" group-title="EU Germany",ZEE ONE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22516
+#EXTINF:-1 tvg-id="" tvg-name="SKY 1 HD" tvg-shift="" radio="" tvg-logo="sky1 hd.png" group-title="EU Germany",SKY 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22514
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA HD" tvg-shift="" radio="" tvg-logo="sky cinema hd.png" group-title="EU Germany",SKY CINEMA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22513
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA  1 HD" tvg-shift="" radio="" tvg-logo="sky cinema +1 hd.png" group-title="EU Germany",SKY CINEMA  1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22512
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA  24 HD" tvg-shift="" radio="" tvg-logo="sky cinema +24 hd.png" group-title="EU Germany",SKY CINEMA  24 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22511
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FAMILY HD" tvg-shift="" radio="" tvg-logo="sky cinema family hd.png" group-title="EU Germany",SKY CINEMA FAMILY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22510
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ACTION HD" tvg-shift="" radio="" tvg-logo="sky cinema action hd.png" group-title="EU Germany",SKY CINEMA ACTION HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22509
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA EMOTION" tvg-shift="" radio="" tvg-logo="sky cinema emotion.png" group-title="EU Germany",SKY CINEMA EMOTION
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22508
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA NOSTALGIE" tvg-shift="" radio="" tvg-logo="sky cinema nostalgie.png" group-title="EU Germany",SKY CINEMA NOSTALGIE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22507
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA HITS HD" tvg-shift="" radio="" tvg-logo="sky cinema hits hd.png" group-title="EU Germany",SKY CINEMA HITS HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22506
+#EXTINF:-1 tvg-id="" tvg-name="TNT COMEDY HD" tvg-shift="" radio="" tvg-logo="tnt comedy hd.png" group-title="EU Germany",TNT COMEDY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22505
+#EXTINF:-1 tvg-id="" tvg-name="SKY ATLANTIC HD" tvg-shift="" radio="" tvg-logo="sky atlantic hd.png" group-title="EU Germany",SKY ATLANTIC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22504
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 1 HD" tvg-shift="" radio="" tvg-logo="sky select 1.png" group-title="EU Germany",SKY SELECT 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22497
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 2 HD" tvg-shift="" radio="" tvg-logo="sky select 2.png" group-title="EU Germany",SKY SELECT 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22496
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 3 HD" tvg-shift="" radio="" tvg-logo="sky select 3.png" group-title="EU Germany",SKY SELECT 3 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22495
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 4 HD" tvg-shift="" radio="" tvg-logo="sky select 4.png" group-title="EU Germany",SKY SELECT 4 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22494
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 5 HD" tvg-shift="" radio="" tvg-logo="sky select 5.png" group-title="EU Germany",SKY SELECT 5 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22493
+#EXTINF:-1 tvg-id="" tvg-name="SKY ATLANTIC" tvg-shift="" radio="" tvg-logo="sky atlantic.png" group-title="EU Germany",SKY ATLANTIC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22492
+#EXTINF:-1 tvg-id="" tvg-name="KINOWELT TV" tvg-shift="" radio="" tvg-logo="kinowelt tv.png" group-title="EU Germany",KINOWELT TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22491
+#EXTINF:-1 tvg-id="" tvg-name="TNT FILM" tvg-shift="" radio="" tvg-logo="tnt film.png" group-title="EU Germany",TNT FILM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22490
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-shift="" radio="" tvg-logo="fox hd.png" group-title="EU Germany",FOX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22488
+#EXTINF:-1 tvg-id="" tvg-name="13TH STREET HD" tvg-shift="" radio="" tvg-logo="13th street hd.png" group-title="EU Germany",13TH STREET HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22487
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-shift="" radio="" tvg-logo="syfy hd.png" group-title="EU Germany",SYFY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22486
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIE HD" tvg-shift="" radio="" tvg-logo="tnt serie hd.png" group-title="EU Germany",TNT SERIE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22485
+#EXTINF:-1 tvg-id="" tvg-name="SKY TNT SERIE HD" tvg-shift="" radio="" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYTNTSERIE.png" group-title="EU Germany",SKY TNT SERIE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22484
+#EXTINF:-1 tvg-id="" tvg-name="ROMANCE TV" tvg-shift="" radio="" tvg-logo="romance tv.png" group-title="EU Germany",ROMANCE TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22483
+#EXTINF:-1 tvg-id="" tvg-name="FOX SERIE" tvg-shift="" radio="" tvg-logo="fox serie.png" group-title="EU Germany",FOX SERIE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22482
+#EXTINF:-1 tvg-id="" tvg-name="SKY KRIMI" tvg-shift="" radio="" tvg-logo="sky krimi.png" group-title="EU Germany",SKY KRIMI
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22481
+#EXTINF:-1 tvg-id="" tvg-name="13TH STREET" tvg-shift="" radio="" tvg-logo="13th street.png" group-title="EU Germany",13TH STREET
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22480
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT HD" tvg-shift="" radio="" tvg-logo="e! entertainm. hd.png" group-title="EU Germany",E! ENTERTAINMENT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22479
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-shift="" radio="" tvg-logo="mtv hd.png" group-title="EU Germany",MTV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22478
+#EXTINF:-1 tvg-id="" tvg-name="NICK /MTV HD" tvg-shift="" radio="" tvg-logo="nick hd.png" group-title="EU Germany",NICK /MTV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22477
+#EXTINF:-1 tvg-id="" tvg-name="DELUXE MUSIC HD" tvg-shift="" radio="" tvg-logo="deluxe music hd.png" group-title="EU Germany",DELUXE MUSIC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22476
+#EXTINF:-1 tvg-id="" tvg-name="VIVA/COMEDY CENTRAL" tvg-shift="" radio="" tvg-logo="comedy central germany.png" group-title="EU Germany",VIVA/COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22475
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-shift="" radio="" tvg-logo="vh1.png" group-title="EU Germany",VH1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22474
+#EXTINF:-1 tvg-id="" tvg-name="JUKEBOX" tvg-shift="" radio="" tvg-logo="jukebox.png" group-title="EU Germany",JUKEBOX
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22473
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-shift="" radio="" tvg-logo="discovery channel hd.png" group-title="EU Germany",DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22471
+#EXTINF:-1 tvg-id="" tvg-name="NGC HD" tvg-shift="" radio="" tvg-logo="ngc.png" group-title="EU Germany",NGC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22470
+#EXTINF:-1 tvg-id="" tvg-name="NGC WILD HD" tvg-shift="" radio="" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/NGCWILDHD.png" group-title="EU Germany",NGC WILD HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22469
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-shift="" radio="" tvg-logo="history hd.png" group-title="EU Germany",HISTORY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22468
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-shift="" radio="" tvg-logo="tlc hd.png" group-title="EU Germany",TLC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22467
+#EXTINF:-1 tvg-id="" tvg-name="SKY ARTS HD" tvg-shift="" radio="" tvg-logo="sky arts hd.png" group-title="EU Germany",SKY ARTS HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22466
+#EXTINF:-1 tvg-id="" tvg-name="NGC" tvg-shift="" radio="" tvg-logo="ngc.png" group-title="EU Germany",NGC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22465
+#EXTINF:-1 tvg-id="" tvg-name="NGC WILD" tvg-shift="" radio="" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/NGCWILDHD.png" group-title="EU Germany",NGC WILD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22464
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-shift="" radio="" tvg-logo="history.png" group-title="EU Germany",HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22463
+#EXTINF:-1 tvg-id="" tvg-name="SPIEGEL GESCHICHTE" tvg-shift="" radio="" tvg-logo="spiegel geschichte.png" group-title="EU Germany",SPIEGEL GESCHICHTE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22462
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-shift="" radio="" tvg-logo="a&e.png" group-title="EU Germany",A&E
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22461
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-shift="" radio="" tvg-logo="disney channel hd.png" group-title="EU Germany",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22459
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-shift="" radio="" tvg-logo="disney junior hd.png" group-title="EU Germany",DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22458
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CINEMAGIC" tvg-shift="" radio="" tvg-logo="disney cinemagic hd.png" group-title="EU Germany",DISNEY CINEMAGIC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22457
+#EXTINF:-1 tvg-id="" tvg-name="NICK /MTV" tvg-shift="" radio="" tvg-logo="nick hd.png" group-title="EU Germany",NICK /MTV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22456
+#EXTINF:-1 tvg-id="" tvg-name="KIKA" tvg-shift="" radio="" tvg-logo="kika.png" group-title="EU Germany",KIKA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22455
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-shift="" radio="" tvg-logo="cartoon network.png" group-title="EU Germany",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22454
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-shift="" radio="" tvg-logo="boomerang.png" group-title="EU Germany",BOOMERANG
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22453
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-shift="" radio="" tvg-logo="euronews.png" group-title="EU Germany",EURONEWS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22451
+#EXTINF:-1 tvg-id="" tvg-name="N TV" tvg-shift="" radio="" tvg-logo="ntv.png" group-title="EU Germany",N TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22450
+#EXTINF:-1 tvg-id="" tvg-name="JUWELO HD" tvg-shift="" radio="" tvg-logo="juwelo hd.png" group-title="EU Germany",JUWELO HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22448
+#EXTINF:-1 tvg-id="" tvg-name="PEARL TV HD" tvg-shift="" radio="" tvg-logo="pearl.tv hd.png" group-title="EU Germany",PEARL TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22447
+#EXTINF:-1 tvg-id="" tvg-name="123TV HD" tvg-shift="" radio="" tvg-logo="1-2-3.tv hd.png" group-title="EU Germany",123TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22446
+#EXTINF:-1 tvg-id="" tvg-name="ANIXE HD" tvg-shift="" radio="" tvg-logo="anixe hd.png" group-title="EU Germany",ANIXE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22445
+#EXTINF:-1 tvg-id="" tvg-name="QVC HD" tvg-shift="" radio="" tvg-logo="qvc hd.png" group-title="EU Germany",QVC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22444
+#EXTINF:-1 tvg-id="" tvg-name="QVC2 HD" tvg-shift="" radio="" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/UK/QVCU.K..png" group-title="EU Germany",QVC2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22443
+#EXTINF:-1 tvg-id="" tvg-name="HSE 24 HD" tvg-shift="" radio="" tvg-logo="hse24 hd.png" group-title="EU Germany",HSE 24 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22442
+#EXTINF:-1 tvg-id="" tvg-name="HSE 24 EXTRA HD" tvg-shift="" radio="" tvg-logo="hse24 extra.png" group-title="EU Germany",HSE 24 EXTRA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22441
+#EXTINF:-1 tvg-id="" tvg-name="MDR CRINGEN HD" tvg-shift="" radio="" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/UK/GENERAL.png" group-title="EU Germany",MDR CRINGEN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22440
+#EXTINF:-1 tvg-id="" tvg-name="MDR S-ANHALT HD" tvg-shift="" radio="" tvg-logo="mdr s-anhalt hd.png" group-title="EU Germany",MDR S-ANHALT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22439
+#EXTINF:-1 tvg-id="" tvg-name="MDR SACHSEN HD" tvg-shift="" radio="" tvg-logo="mdr sachsen hd.png" group-title="EU Germany",MDR SACHSEN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22438
+#EXTINF:-1 tvg-id="" tvg-name="WDR AACHEN HD" tvg-shift="" radio="" tvg-logo="wdr aachen.png" group-title="EU Germany",WDR AACHEN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22437
+#EXTINF:-1 tvg-id="" tvg-name="WDR BONN HD" tvg-shift="" radio="" tvg-logo="wdr bonn.png" group-title="EU Germany",WDR BONN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22436
+#EXTINF:-1 tvg-id="" tvg-name="WDR DUISBURG HD" tvg-shift="" radio="" tvg-logo="wdr duisburg.png" group-title="EU Germany",WDR DUISBURG HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22435
+#EXTINF:-1 tvg-id="" tvg-name="RBB BERLIN HD" tvg-shift="" radio="" tvg-logo="rbb berlin hd.png" group-title="EU Germany",RBB BERLIN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22434
+#EXTINF:-1 tvg-id="" tvg-name="RBB BRANDEN BURG" tvg-shift="" radio="" tvg-logo="rbb brandenburg hd.png" group-title="EU Germany",RBB BRANDEN BURG
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22433
+#EXTINF:-1 tvg-id="" tvg-name="SONNENKLAR HD" tvg-shift="" radio="" tvg-logo="sonnenklar.tv hd.png" group-title="EU Germany",SONNENKLAR HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22432
+#EXTINF:-1 tvg-id="" tvg-name="WDR WUPPERTAL HD" tvg-shift="" radio="" tvg-logo="wdr wuppertal.png" group-title="EU Germany",WDR WUPPERTAL HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22431
+#EXTINF:-1 tvg-id="" tvg-name="WELT HD" tvg-shift="" radio="" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/TURKIYE/POWERHDPLUS.png" group-title="EU Germany",WELT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22430
+#EXTINF:-1 tvg-id="" tvg-name="HEIMAT KANAL" tvg-shift="" radio="" tvg-logo="heimatkanal.png" group-title="EU Germany",HEIMAT KANAL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22429
+#EXTINF:-1 tvg-id="" tvg-name="CLASSICA" tvg-shift="" radio="" tvg-logo="classica.png" group-title="EU Germany",CLASSICA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22428
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NEWS HD" tvg-shift="" radio="" tvg-logo="sky sport news hd.png" group-title="EU Germany",SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22426
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 1  HD" tvg-shift="" radio="" tvg-logo="sport 1.png" group-title="EU Germany",SPORT 1  HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22425
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-shift="" radio="" tvg-logo="eurosport 1 hd.png" group-title="EU Germany",EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22424
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-shift="" radio="" tvg-logo="eurosport 2 hd.png" group-title="EU Germany",EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22423
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2  XTRA HD" tvg-shift="" radio="" tvg-logo="" group-title="EU Germany",EUROSPORT 2  XTRA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22422
+#EXTINF:-1 tvg-id="" tvg-name="MOTORVISION" tvg-shift="" radio="" tvg-logo="motorvision tv.png" group-title="EU Germany",MOTORVISION
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22421
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 BAR FHD" tvg-shift="" radio="" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/DAZN1BARFHD.png" group-title="EU Germany",DAZN 1 BAR FHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22420
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 BAR FHD" tvg-shift="" radio="" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/DAZN2BARFHD.png" group-title="EU Germany",DAZN 2 BAR FHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22419
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 1 HD" tvg-shift="" radio="" tvg-logo="sky sport 1 hd.png" group-title="EU Germany",SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22418
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 2 HD" tvg-shift="" radio="" tvg-logo="sky sport 2 hd.png" group-title="EU Germany",SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22417
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 1" tvg-shift="" radio="" tvg-logo="sky sport 1.png" group-title="EU Germany",SKY SPORT 1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22416
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 2" tvg-shift="" radio="" tvg-logo="sky sport 2.png" group-title="EU Germany",SKY SPORT 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22415
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 1 HD" tvg-shift="" radio="" tvg-logo="sky bundesliga 1.png" group-title="EU Germany",SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22414
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 2 HD (ON MATCH TIME)" tvg-shift="" radio="" tvg-logo="sky bundesliga 2.png" group-title="EU Germany",SKY BUNDESLIGA 2 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22413
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 3 HD (ON MATCH TIME)" tvg-shift="" radio="" tvg-logo="sky bundesliga 3.png" group-title="EU Germany",SKY BUNDESLIGA 3 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22412
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 4 HD (ON MATCH TIME)" tvg-shift="" radio="" tvg-logo="sky bundesliga 4.png" group-title="EU Germany",SKY BUNDESLIGA 4 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22411
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 5 HD (ON MATCH TIME)" tvg-shift="" radio="" tvg-logo="sky bundesliga 5.png" group-title="EU Germany",SKY BUNDESLIGA 5 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22410
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 6 HD (ON MATCH TIME)" tvg-shift="" radio="" tvg-logo="sky bundesliga 6.png" group-title="EU Germany",SKY BUNDESLIGA 6 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22409
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 7 HD (ON MATCH TIME)" tvg-shift="" radio="" tvg-logo="sky bundesliga 7.png" group-title="EU Germany",SKY BUNDESLIGA 7 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22408
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 8 HD (ON MATCH TIME)" tvg-shift="" radio="" tvg-logo="sky bundesliga 8.png" group-title="EU Germany",SKY BUNDESLIGA 8 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22407
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 9 HD (ON MATCH TIME)" tvg-shift="" radio="" tvg-logo="sky bundesliga 9.png" group-title="EU Germany",SKY BUNDESLIGA 9 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22406
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 10 HD (ON MATCH TIME)" tvg-shift="" radio="" tvg-logo="sky bundesliga 10.png" group-title="EU Germany",SKY BUNDESLIGA 10 HD (ON MATCH TIME)
+
