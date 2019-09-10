@@ -4,9 +4,9 @@
 <channels>
 <channel>
 <name>[COLOR gold]Deutsch[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/server.txt</externallink>
-<fanart></fanart>
+<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
 
