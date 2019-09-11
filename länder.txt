@@ -40,7 +40,7 @@
 <channel>
 <name>[COLOR gold]test[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/ZzGTySZE</externallink>
+<externallink>http://51.15.161.236:25461/get.php?username=allchannels&password=all_pannels&type=m3u_plus</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</fanart>
 <info></info>
 </channel>
