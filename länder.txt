@@ -37,7 +37,7 @@
 <info></info>
 </channel>
 
-<channel>
+channel>
 <name>[COLOR gold]test[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</thumbnail>
 <externallink>http://vavoo.to/plugin.video.vavooto</externallink>
