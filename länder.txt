@@ -13,9 +13,9 @@
 <channels>
 <channel>
 <name>[COLOR gold]Zorro TV[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Icon/Zorro.png</thumbnail>
 <externallink>http://kodi-zorro.com/addon/menu.xml</externallink>
-<fanart></fanart>
+<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Icon/Zorro.png</fanart>
 <info></info>
 </channel>
 
