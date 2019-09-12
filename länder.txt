@@ -40,7 +40,7 @@
 <channel>
 <name>[COLOR gold]test[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/MichiHD/iptv-kodi-german/master/ip-tv-german.m3u</externallink>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/IPTVs/0_today.m3u</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</fanart>
 <info></info>
 </channel>
