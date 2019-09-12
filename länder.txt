@@ -31,9 +31,9 @@
 <channels>
 <channel>
 <name>[COLOR gold]Voodoo TV[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Icon/Voodoo.png</thumbnail>
 <externallink>https://pastebin.com/raw/i8FQWG7X</externallink>
-<fanart></fanart>
+<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Icon/Voodoo.png</fanart>
 <info></info>
 </channel>
 
