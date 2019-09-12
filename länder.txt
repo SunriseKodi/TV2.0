@@ -22,9 +22,9 @@
 <channels>
 <channel>
 <name>[COLOR gold]Robin Hood TV[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Icon/Hood.png</thumbnail>
 <externallink>http://kodibalkan.com/IPTVROBINHOOD/MenuIPTV/menu.xml</externallink>
-<fanart></fanart>
+<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Icon/Hood.png</fanart>
 <info></info>
 </channel>
 
