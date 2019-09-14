@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="DAS ERSTE HD (ARD)" tvg-shift="" radio="" tvg-logo="das erste hd.png" group-title="EU Germany",DAS ERSTE HD (ARD)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22545
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://163.172.33.168:22500/deniz/27012019/22961
 #EXTINF:-1 tvg-id="" tvg-name="ARTE HD" tvg-shift="" radio="" tvg-logo="arte hd.png" group-title="EU Germany",ARTE HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22544
 #EXTINF:-1 tvg-id="" tvg-name="ZDF HD" tvg-shift="" radio="" tvg-logo="zdf hd.png" group-title="EU Germany",ZDF HD
