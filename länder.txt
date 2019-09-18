@@ -37,11 +37,11 @@
 <info></info>
 </channel>
 
-channel>
+<channel>
 <name>[COLOR gold]test[/COLOR]</name>
-<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</thumbnail>
-<externallink>http://rtvuzivo.net/PavooTv/Balkan/menu.xml</externallink>
-<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</fanart>
+<thumbnail></thumbnail>
+<externallink>http://rtvuzivo.net/PavooTv/menu.xml</externallink>
+<fanart></fanart>
 <info></info>
 </channel>
 
