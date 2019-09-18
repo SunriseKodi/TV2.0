@@ -18,7 +18,7 @@
 <info></info>
 </channel>
 
-<channel>
+channel>
 <name>[COLOR gold]Italienisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/world-cup-italy-flag.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/italienisch.txt</externallink>
@@ -42,7 +42,7 @@ channel>
 <info></info>
 </channel>
 
-<channel>
+channel>
 <name>[COLOR gold]Brasilianisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/Brasilien.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Brasilianisch.txt</externallink>
