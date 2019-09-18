@@ -37,7 +37,7 @@
 <info></info>
 </channel>
 
-<channel>
+channel>
 <name>[COLOR gold]test[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>http://rtvuzivo.net/PavooTv/germany/1.xml</externallink>
