@@ -2,7 +2,7 @@
 
 
 <channels>
-<channel>
+channel>
 <name>[COLOR gold]Sunrise TV[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Icon/Sunrise.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/welt.txt</externallink>
@@ -11,7 +11,7 @@
 </channel>
 
 <channels>
-<channel>
+channel>
 <name>[COLOR gold]Zorro TV[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Icon/Zorro.png</thumbnail>
 <externallink>http://kodi-zorro.com/addon/menu.xml</externallink>
@@ -20,7 +20,7 @@
 </channel>
 
 <channels>
-<channel>
+channel>
 <name>[COLOR gold]Robin Hood TV[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Icon/Hood.png</thumbnail>
 <externallink>http://kodibalkan.com/IPTVROBINHOOD/MenuIPTV/menu.xml</externallink>
@@ -29,7 +29,7 @@
 </channel>
 
 <channels>
-<channel>
+channel>
 <name>[COLOR gold]Voodoo TV[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Icon/Voodoo.png</thumbnail>
 <externallink>https://pastebin.com/raw/i8FQWG7X</externallink>
