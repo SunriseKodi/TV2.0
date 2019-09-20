@@ -1,0 +1,11 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>[COLOR gold]Sunrise TV[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Icon/Sunrise.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/welt.txt</externallink>
+<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Icon/Sunrise.png</fanart>
+<info></info>
+</channel>
