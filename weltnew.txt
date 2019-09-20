@@ -10,7 +10,7 @@
 <info></info>
 </channel>
 
-<channel>
+channel>
 <name>[COLOR gold]Spanisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/spanisch.txt</externallink>
@@ -26,7 +26,7 @@ channel>
 <info></info>
 </channel>
 
-<channel>
+channel>
 <name>[COLOR gold]Portugiesisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/aufkleber-flagge-von-portugal.jpg.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Portugiesisch.txt</externallink>
