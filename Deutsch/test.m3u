@@ -1,255 +1,538 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-name="DAS ERSTE HD (ARD)" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/DASERSTEHD(ARD).png" group-title="EU Germany",DAS ERSTE HD (ARD)
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4657
-#EXTINF:-1 tvg-ID="" tvg-name="ARTE HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/ARTEHD.png" group-title="EU Germany",ARTE HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/53006
-#EXTINF:-1 tvg-ID="" tvg-name="ZDF HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/ZDFHD.png" group-title="EU Germany",ZDF HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/5842
-#EXTINF:-1 tvg-ID="" tvg-name="ZDF NEO" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/ZDFNEO.png" group-title="EU Germany",ZDF NEO
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12801
-#EXTINF:-1 tvg-ID="" tvg-name="3 SAT" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/3SAT.png" group-title="EU Germany",3 SAT
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/1283
-#EXTINF:-1 tvg-ID="" tvg-name="RTL" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/RTL.png" group-title="EU Germany",RTL
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4644
-#EXTINF:-1 tvg-ID="" tvg-name="RTL2" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/RTL2.png" group-title="EU Germany",RTL2
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4645
-#EXTINF:-1 tvg-ID="" tvg-name="RTL PLUS" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/RTLPLUS.png" group-title="EU Germany",RTL PLUS
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22538
-#EXTINF:-1 tvg-ID="" tvg-name="RTL CRIME HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/RTLCRIMEHD.png" group-title="EU Germany",RTL CRIME HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22537
-#EXTINF:-1 tvg-ID="" tvg-name="RTL PASSION HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/RTLPASSIONHD.png" group-title="EU Germany",RTL PASSION HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22536
-#EXTINF:-1 tvg-ID="" tvg-name="RTL NITRO" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/RTLNITRO.png" group-title="EU Germany",RTL NITRO
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22535
-#EXTINF:-1 tvg-ID="" tvg-name="SUPER RTL" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SUPERRTL.png" group-title="EU Germany",SUPER RTL
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22534
-#EXTINF:-1 tvg-ID="" tvg-name="VOX" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/VOX.png" group-title="EU Germany",VOX
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22533
-#EXTINF:-1 tvg-ID="" tvg-name="EOTV" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/EOTV.png" group-title="EU Germany",EOTV
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22532
-#EXTINF:-1 tvg-ID="" tvg-name="ZEE ONE" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/ZEEONE.png" group-title="EU Germany",ZEE ONE
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22531
-#EXTINF:-1 tvg-ID="" tvg-name="SWR FERNSEHEN BW" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SWRFERNSEHENBW.png" group-title="EU Germany",SWR FERNSEHEN BW
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22530
-#EXTINF:-1 tvg-ID="" tvg-name="NITRO" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/NITRO.png" group-title="EU Germany",NITRO
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22529
-#EXTINF:-1 tvg-ID="" tvg-name="RTL HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/RTLHD.png" group-title="EU Germany",RTL HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22527
-#EXTINF:-1 tvg-ID="" tvg-name="RTL 2 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/RTL2HD.png" group-title="EU Germany",RTL 2 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22526
-#EXTINF:-1 tvg-ID="" tvg-name="SAT 1 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SAT1HD.png" group-title="EU Germany",SAT 1 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22525
-#EXTINF:-1 tvg-ID="" tvg-name="SAT 1 GOLD HD" tvg-logo="" group-title="EU Germany",SAT 1 GOLD HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22524
-#EXTINF:-1 tvg-ID="" tvg-name="SIXX HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SIXXHD.png" group-title="EU Germany",SIXX HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22523
-#EXTINF:-1 tvg-ID="" tvg-name="VOX HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/VOXHD.png" group-title="EU Germany",VOX HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22522
-#EXTINF:-1 tvg-ID="" tvg-name="KABEL 1 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/KABEL1HD.png" group-title="EU Germany",KABEL 1 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22521
-#EXTINF:-1 tvg-ID="" tvg-name="PROSIEBEN HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/PROSIEBENHD.png" group-title="EU Germany",PROSIEBEN HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22520
-#EXTINF:-1 tvg-ID="" tvg-name="PROSIEBEN MAXX HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/PROSIEBENMAXXHD.png" group-title="EU Germany",PROSIEBEN MAXX HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22519
-#EXTINF:-1 tvg-ID="" tvg-name="DMAX HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/TURKIYE/DMAXHDPLUS.png" group-title="EU Germany",DMAX HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22518
-#EXTINF:-1 tvg-ID="" tvg-name="TELE 5 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/LATINO/TELETRAK.png" group-title="EU Germany",TELE 5 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22517
-#EXTINF:-1 tvg-ID="" tvg-name="ZEE ONE HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/ZEEONE.png" group-title="EU Germany",ZEE ONE HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22516
-#EXTINF:-1 tvg-ID="" tvg-name="SKY 1 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKY1HD.png" group-title="EU Germany",SKY 1 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22514
-#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYCINEMAHD.png" group-title="EU Germany",SKY CINEMA HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22513
-#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA  1 HD" tvg-logo="" group-title="EU Germany",SKY CINEMA  1 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22512
-#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA  24 HD" tvg-logo="" group-title="EU Germany",SKY CINEMA  24 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22511
-#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYCINEMAFAMILYHD.png" group-title="EU Germany",SKY CINEMA FAMILY HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22510
-#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA ACTION HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYCINEMAACTIONHD.png" group-title="EU Germany",SKY CINEMA ACTION HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22509
-#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA EMOTION" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYCINEMAEMOTION.png" group-title="EU Germany",SKY CINEMA EMOTION
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22508
-#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA NOSTALGIE" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYCINEMANOSTALGIE.png" group-title="EU Germany",SKY CINEMA NOSTALGIE
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22507
-#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA HITS HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYCINEMAHITSHD.png" group-title="EU Germany",SKY CINEMA HITS HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22506
-#EXTINF:-1 tvg-ID="" tvg-name="TNT COMEDY HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/TNTCOMEDYHD.png" group-title="EU Germany",TNT COMEDY HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22505
-#EXTINF:-1 tvg-ID="" tvg-name="SKY ATLANTIC HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYATLANTICHD.png" group-title="EU Germany",SKY ATLANTIC HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22504
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SELECT 1 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYSELECT1HD.png" group-title="EU Germany",SKY SELECT 1 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22497
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SELECT 2 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYSELECT2HD.png" group-title="EU Germany",SKY SELECT 2 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22496
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SELECT 3 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYSELECT3HD.png" group-title="EU Germany",SKY SELECT 3 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22495
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SELECT 4 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYSELECT4HD.png" group-title="EU Germany",SKY SELECT 4 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22494
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SELECT 5 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYSELECT5HD.png" group-title="EU Germany",SKY SELECT 5 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22493
-#EXTINF:-1 tvg-ID="" tvg-name="SKY ATLANTIC" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYATLANTIC.png" group-title="EU Germany",SKY ATLANTIC
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22492
-#EXTINF:-1 tvg-ID="" tvg-name="KINOWELT TV" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/KINOWELTTV.png" group-title="EU Germany",KINOWELT TV
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22491
-#EXTINF:-1 tvg-ID="" tvg-name="TNT FILM" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/TNTFILM.png" group-title="EU Germany",TNT FILM
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22490
-#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/FOXHD.png" group-title="EU Germany",FOX HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22488
-#EXTINF:-1 tvg-ID="" tvg-name="13TH STREET HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/13THSTREETHD.png" group-title="EU Germany",13TH STREET HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22487
-#EXTINF:-1 tvg-ID="" tvg-name="SYFY HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SYFYHD.png" group-title="EU Germany",SYFY HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22486
-#EXTINF:-1 tvg-ID="" tvg-name="TNT SERIE HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/TNTSERIEHD.png" group-title="EU Germany",TNT SERIE HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22485
-#EXTINF:-1 tvg-ID="" tvg-name="SKY TNT SERIE HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYTNTSERIE.png" group-title="EU Germany",SKY TNT SERIE HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22484
-#EXTINF:-1 tvg-ID="" tvg-name="ROMANCE TV" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/ROMANCETV.png" group-title="EU Germany",ROMANCE TV
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22483
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SERIE" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/FOXSERIE.png" group-title="EU Germany",FOX SERIE
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22482
-#EXTINF:-1 tvg-ID="" tvg-name="SKY KRIMI" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYKRIMI.png" group-title="EU Germany",SKY KRIMI
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22481
-#EXTINF:-1 tvg-ID="" tvg-name="13TH STREET" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/13THSTREET.png" group-title="EU Germany",13TH STREET
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22480
-#EXTINF:-1 tvg-ID="" tvg-name="E! ENTERTAINMENT HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/E!ENTERTAINMENT.png" group-title="EU Germany",E! ENTERTAINMENT HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22479
-#EXTINF:-1 tvg-ID="" tvg-name="MTV HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/MTV.png" group-title="EU Germany",MTV HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22478
-#EXTINF:-1 tvg-ID="" tvg-name="NICK /MTV HD" tvg-logo="" group-title="EU Germany",NICK /MTV HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22477
-#EXTINF:-1 tvg-ID="" tvg-name="LUXE MUSIC HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/LUXEMUSICHD.png" group-title="EU Germany",LUXE MUSIC HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22476
-#EXTINF:-1 tvg-ID="" tvg-name="VIVA/COMEDY CENTRAL" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/NERLAND/COMEDYCENTRAL.png" group-title="EU Germany",VIVA/COMEDY CENTRAL
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22475
-#EXTINF:-1 tvg-ID="" tvg-name="VH1" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/VH1.png" group-title="EU Germany",VH1
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22474
-#EXTINF:-1 tvg-ID="" tvg-name="JUKEBOX" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/JUKEBOX.png" group-title="EU Germany",JUKEBOX
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22473
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/DISCOVERYHD.png" group-title="EU Germany",DISCOVERY HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22471
-#EXTINF:-1 tvg-ID="" tvg-name="NGC HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/NGCHD.png" group-title="EU Germany",NGC HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22470
-#EXTINF:-1 tvg-ID="" tvg-name="NGC WILD HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/NGCWILDHD.png" group-title="EU Germany",NGC WILD HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22469
-#EXTINF:-1 tvg-ID="" tvg-name="HISTORY HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/HISTORYHD.png" group-title="EU Germany",HISTORY HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22468
-#EXTINF:-1 tvg-ID="" tvg-name="TLC HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/TLCHD.png" group-title="EU Germany",TLC HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22467
-#EXTINF:-1 tvg-ID="" tvg-name="SKY ARTS HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYARTSHD.png" group-title="EU Germany",SKY ARTS HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22466
-#EXTINF:-1 tvg-ID="" tvg-name="NGC" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/NGCHD.png" group-title="EU Germany",NGC
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22465
-#EXTINF:-1 tvg-ID="" tvg-name="NGC WILD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/NGCWILDHD.png" group-title="EU Germany",NGC WILD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22464
-#EXTINF:-1 tvg-ID="" tvg-name="HISTORY CHANNEL" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/DISCOVERYCHANNEL.png" group-title="EU Germany",HISTORY CHANNEL
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22463
-#EXTINF:-1 tvg-ID="" tvg-name="SPIEGEL GESCHICHTE" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SPIEGELGESCHICHTE.png" group-title="EU Germany",SPIEGEL GESCHICHTE
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22462
-#EXTINF:-1 tvg-ID="" tvg-name="A&E" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/A&E.png" group-title="EU Germany",A&E
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22461
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/DISNEYCHANNELHD.png" group-title="EU Germany",DISNEY CHANNEL HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22459
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/DISNEYJUNIORHD.png" group-title="EU Germany",DISNEY JUNIOR HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22458
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CINEMAGIC" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/DISNEYCINEMAGIC.png" group-title="EU Germany",DISNEY CINEMAGIC
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22457
-#EXTINF:-1 tvg-ID="" tvg-name="NICK /MTV" tvg-logo="" group-title="EU Germany",NICK /MTV
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22456
-#EXTINF:-1 tvg-ID="" tvg-name="KIKA" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/KIKA.png" group-title="EU Germany",KIKA
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22455
-#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/CARTOONNETWORK.png" group-title="EU Germany",CARTOON NETWORK
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22454
-#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/BOOMERANG.png" group-title="EU Germany",BOOMERANG
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22453
-#EXTINF:-1 tvg-ID="" tvg-name="EURONEWS" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/EURONEWS.png" group-title="EU Germany",EURONEWS
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22451
-#EXTINF:-1 tvg-ID="" tvg-name="N TV" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/NTV.png" group-title="EU Germany",N TV
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22450
-#EXTINF:-1 tvg-ID="" tvg-name="JUWELO HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/JUKEBOX.png" group-title="EU Germany",JUWELO HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22448
-#EXTINF:-1 tvg-ID="" tvg-name="PEARL TV HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/NERLAND/NPOZAPEXTRA.png" group-title="EU Germany",PEARL TV HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22447
-#EXTINF:-1 tvg-ID="" tvg-name="123TV HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/SCANDINAVIAN/TV12HD.png" group-title="EU Germany",123TV HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22446
-#EXTINF:-1 tvg-ID="" tvg-name="ANIXE HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/ANIXEHD.png" group-title="EU Germany",ANIXE HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22445
-#EXTINF:-1 tvg-ID="" tvg-name="QVC HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/UK/QVCU.K..png" group-title="EU Germany",QVC HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22444
-#EXTINF:-1 tvg-ID="" tvg-name="QVC2 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/UK/QVCU.K..png" group-title="EU Germany",QVC2 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22443
-#EXTINF:-1 tvg-ID="" tvg-name="HSE 24 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/FRANCE/FOOT24HD.png" group-title="EU Germany",HSE 24 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22442
-#EXTINF:-1 tvg-ID="" tvg-name="HSE 24 EXTRA HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/UK/QVCEXTRA.png" group-title="EU Germany",HSE 24 EXTRA HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22441
-#EXTINF:-1 tvg-ID="" tvg-name="MDR CRINGEN HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/UK/GENERAL.png" group-title="EU Germany",MDR CRINGEN HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22440
-#EXTINF:-1 tvg-ID="" tvg-name="MDR S-ANHALT HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/SCANDINAVIAN/SJUANHD.png" group-title="EU Germany",MDR S-ANHALT HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22439
-#EXTINF:-1 tvg-ID="" tvg-name="MDR SACHSEN HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/CANADA/CHCH.png" group-title="EU Germany",MDR SACHSEN HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22438
-#EXTINF:-1 tvg-ID="" tvg-name="WDR AACHEN HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/NERLAND/24KITCHEN.png" group-title="EU Germany",WDR AACHEN HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22437
-#EXTINF:-1 tvg-ID="" tvg-name="WDR BONN HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/BOOMERANG.png" group-title="EU Germany",WDR BONN HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22436
-#EXTINF:-1 tvg-ID="" tvg-name="WDR DUISBURG HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/LATINO/BOOMRANG.png" group-title="EU Germany",WDR DUISBURG HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22435
-#EXTINF:-1 tvg-ID="" tvg-name="RBB BERLIN HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/KABEL1HD.png" group-title="EU Germany",RBB BERLIN HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22434
-#EXTINF:-1 tvg-ID="" tvg-name="RBB BRANN BURG" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/NERLAND/L1LIMBURGTV.png" group-title="EU Germany",RBB BRANN BURG
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22433
-#EXTINF:-1 tvg-ID="" tvg-name="SONNENKLAR HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/UK/SONYCRIMECHANNEL2.png" group-title="EU Germany",SONNENKLAR HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22432
-#EXTINF:-1 tvg-ID="" tvg-name="WDR WUPPERTAL HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/LATINO/BAND.png" group-title="EU Germany",WDR WUPPERTAL HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22431
-#EXTINF:-1 tvg-ID="" tvg-name="WELT HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/TURKIYE/POWERHDPLUS.png" group-title="EU Germany",WELT HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22430
-#EXTINF:-1 tvg-ID="" tvg-name="HEIMAT KANAL" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/HEIMATKANAL.png" group-title="EU Germany",HEIMAT KANAL
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22429
-#EXTINF:-1 tvg-ID="" tvg-name="CLASSICA" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/CLASSICA.png" group-title="EU Germany",CLASSICA
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22428
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT NEWS HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYSPORTNEWSHD.png" group-title="EU Germany",SKY SPORT NEWS HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22426
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT 1  HD" tvg-logo="" group-title="EU Germany",SPORT 1  HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22425
-#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 1 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/SPAIN/EUROSPORT1.png" group-title="EU Germany",EUROSPORT 1 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22424
-#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/EUROSPORT2HD.png" group-title="EU Germany",EUROSPORT 2 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22423
-#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2  XTRA HD" tvg-logo="" group-title="EU Germany",EUROSPORT 2  XTRA HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22422
-#EXTINF:-1 tvg-ID="" tvg-name="MOTORVISION" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/MOTORVISION.png" group-title="EU Germany",MOTORVISION
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22421
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN 1 BAR FHD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/DAZN1BARFHD.png" group-title="EU Germany",DAZN 1 BAR FHD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22420
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN 2 BAR FHD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/DAZN2BARFHD.png" group-title="EU Germany",DAZN 2 BAR FHD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22419
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT 1 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYSPORT1HD.png" group-title="EU Germany",SKY SPORT 1 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22418
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT 2 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYSPORT2HD.png" group-title="EU Germany",SKY SPORT 2 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22417
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT 1" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYSPORT1.png" group-title="EU Germany",SKY SPORT 1
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22416
-#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT 2" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYSPORT2.png" group-title="EU Germany",SKY SPORT 2
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22415
-#EXTINF:-1 tvg-ID="" tvg-name="SKY BUNSLIGA 1 HD" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYBUNSLIGA1FHD.png" group-title="EU Germany",SKY BUNSLIGA 1 HD
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22414
-#EXTINF:-1 tvg-ID="" tvg-name="SKY BUNSLIGA 2 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYBUNSLIGA2FHD.png" group-title="EU Germany",SKY BUNSLIGA 2 HD (ON MATCH TIME)
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22413
-#EXTINF:-1 tvg-ID="" tvg-name="SKY BUNSLIGA 3 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYBUNSLIGA3FHD.png" group-title="EU Germany",SKY BUNSLIGA 3 HD (ON MATCH TIME)
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22412
-#EXTINF:-1 tvg-ID="" tvg-name="SKY BUNSLIGA 4 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYBUNSLIGA4FHD.png" group-title="EU Germany",SKY BUNSLIGA 4 HD (ON MATCH TIME)
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22411
-#EXTINF:-1 tvg-ID="" tvg-name="SKY BUNSLIGA 5 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYBUNSLIGA5FHD.png" group-title="EU Germany",SKY BUNSLIGA 5 HD (ON MATCH TIME)
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22410
-#EXTINF:-1 tvg-ID="" tvg-name="SKY BUNSLIGA 6 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYBUNSLIGA6FHD.png" group-title="EU Germany",SKY BUNSLIGA 6 HD (ON MATCH TIME)
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22409
-#EXTINF:-1 tvg-ID="" tvg-name="SKY BUNSLIGA 7 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYBUNSLIGA7FHD.png" group-title="EU Germany",SKY BUNSLIGA 7 HD (ON MATCH TIME)
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22408
-#EXTINF:-1 tvg-ID="" tvg-name="SKY BUNSLIGA 8 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYBUNSLIGA8FHD.png" group-title="EU Germany",SKY BUNSLIGA 8 HD (ON MATCH TIME)
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22407
-#EXTINF:-1 tvg-ID="" tvg-name="SKY BUNSLIGA 9 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYBUNSLIGA9FHD.png" group-title="EU Germany",SKY BUNSLIGA 9 HD (ON MATCH TIME)
-plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22406
-#EXTINF:-1 tvg-ID="" tvg-name="SKY BUNSLIGA 10 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.vio.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOAR&amp;url=http://logo.noih.tv/GERMANY/SKYBUNSLIGA10FHD.png" group-title="EU Germany",SKY BUNSLIGA 10 HD (ON MATCH TIME)
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] --------------- GERMANY HD ---------------
+
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Das Erste  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4655
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Das Erste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4657
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Das Erste  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/53004
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ZDF HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/5842
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ZDF  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52929
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ZDF info HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4636
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ZDF info HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52928
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ZDF neo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12801
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Pro 7  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4651
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Pro 7 FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12800
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Pro 7 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52974
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Pro 7 Maxx HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4652
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Pro 7 Maxx  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52973
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Kabel 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4643
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Kabel 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52991
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Kabel 1  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52990
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Kabel  1 Classics
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12803
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Kabel 1  DoKu HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12802
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Kabel 1 Doku HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52992
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] RTL  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4644
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] RTL HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52968
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] RTL 2  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4645
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] RTL 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52971
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] RTL Living HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4648
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] RTL Nitro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4646
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] RTL Nitro HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52967
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] RTL Crime  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52970
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] RTL Crime  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4663
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] RTL Passion  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4662
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] RTL  Passion HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52965
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] RTL  Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12813
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] RTL Plus HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52964
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sat 1  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4642
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sat 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52963
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sat 1 emotions HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12806
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sat 1 Gold HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12807
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sat 1 Gold HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52962
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] VOX. HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4637
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] VOX HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52932
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] 3SAT. HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12830
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] 3sat HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/53010
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] N24 News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4656
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sixx  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4640
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ORF1 HD (AU)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4638
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ORF 2 HD+ (AU)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4639
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ORF 3 HD (AU)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12804
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ORF Sport + HD (AU)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12805
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ORF SPORT+ HD+ (AU)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52978
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ORF SPORT HD+ (AU)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52977
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ANNIXE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12829
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ARD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12828
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Arte  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12827
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Arte HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/53006
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] ATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12826
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Classica.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12824
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] DMAX  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/17388
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] DMAX HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52999
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] AUSTRIA 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12825
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] FC Bayern TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12822
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Hr HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12821
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] MDR  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12819
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Ndr HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12818
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Anixe  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51272
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12817
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] NTV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52981
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] DW TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51239
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Euronews. HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51231
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Euronews  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52997
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] MTV  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51166
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] MTV HITS HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51165
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] MUNCHEN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51164
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] NRJ TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51155
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Phoenix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12816
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Servus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12812
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Romance  TV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12814
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] TAGESSCHAU 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12811
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Zee One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12808
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Anixe HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/53007
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Kinowelt TV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52988
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] MTV HD+..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52986
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] One HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52980
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Phoenix HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52976
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Plus 8 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52975
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Romance TV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52972
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sixx HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52959
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] TELE 5 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52940
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] TLC HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52939
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Universal HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52934
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] VIVA HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52933
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] WDR HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/12810
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] --------------- DE-KIDS ---------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51325
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Baby TV.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51265
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] KIKA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7780
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] KIKA HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52989
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] TOGGO HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52935
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SUPER  RTL HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4650
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Super RTL HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52943
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Boomerang HD..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7766
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Cartoon Network HD+.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/53005
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Cartoon Network.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7772
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Nickellodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4658
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Nickelodeon HD+.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52982
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Disney XD.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4681
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Disney XD  HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/53000
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Disney Channel.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7769
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Disney Junior HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/53001
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Disney Junior.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4680
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Disney Cinemagic.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4682
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Disney Cinemagic HD+.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/53002
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] --------------- DE - DOC ---------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51328
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] NAT GEO HD..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4665
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] NAT GEO HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52984
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] NAT GEO WILD  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7756
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] NAT GEO WILD HD+.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52983
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] A&E HD..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7750
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] A&E HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/53009
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] History Channel HD.+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7759
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] History HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52993
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Discovery HD+..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/53003
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Discovery HD..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7754
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] E! Entertainment HD..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7751
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] E! Entertainment  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52998
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Animal Planet HD..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7758
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Animal Planet HD+.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/53008
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] --------------- DE- CINE  ---------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51326
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SKY Cinema Nostalgie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4664
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema Nostalgie HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52947
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema Comedy HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4673
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema Comedy HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52952
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SKY Cinema HD..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4670
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52949
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema +24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4671
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema +24 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52954
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema Atlantic HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4675
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema Atlantic HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52956
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema Action HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4672
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema Action HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52953
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SKY CIinema Family HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7729
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SKY Cinema Family  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52950
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SKY Cinema Hits HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7728
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema Hits HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52948
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema Krimi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7746
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema Krimi HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52946
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SKY 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52958
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Arts HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52957
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema +1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52955
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Cinema Emotion HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52951
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] TNT Film HD..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7747
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] TNT Film HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52937
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] TNT Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7749
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] TNT Comedy HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52938
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] TNT Series HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52936
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] 13th Street HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/53011
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] 13 th Street. HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4677
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] FOX .HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4660
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Fox Serie  HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52994
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] AXN HD..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51266
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] MGM HD'
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51189
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] TLC HD.+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51008
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Heimatkanal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7762
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Kinowelt TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7744
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7753
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sony Entertaiment TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7736
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Spiegel Geschichte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7760
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Spiegel TV Wissen HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7763
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Universal  HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7741
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SKY Select 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7781
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SKY Select 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7782
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SKY Select 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7783
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SKY Select 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7784
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SKY Select 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7785
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SKY Select  8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7788
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] SKY Select 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7789
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Select 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/9665
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Elite Cinema 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80548
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Elite Cinema 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80547
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Elite Cinema 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80546
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Elite Cinema 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80545
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Elite Select 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80544
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Elite Select 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80543
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Elite Select 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80542
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Film Club 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80553
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Film Club 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80552
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Film Club 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80551
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Film Club 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80550
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Film Club 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80549
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] MAX Premiere 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80537
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] MAX Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80536
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] MAX Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80535
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] MOVIESINEMA GERMAN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80534
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Popcorn Select 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80541
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Popcorn Select 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80540
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Popcorn Select 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80539
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Popcorn Select 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80538
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema Abenteuer HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80533
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema Aktion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80532
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema Animation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80531
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80530
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema Geschichte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80529
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema Horror HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80528
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema KINOSAAL (GERINGE QUALIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80527
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema Komodie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80526
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema L
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80525
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema Mythologie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80524
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80523
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema Romantisch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80522
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema Sci-Fi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80521
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Cinema Thriller HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80520
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Game of Thrones S08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80519
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eagle Peppa Wutz FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/80518
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] --------------- DE - SPORT ---------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51327
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eurosport 1 HD+.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52484
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4683
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eurosport 2 HD+.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52482
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Eurosport 2 Xtra 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52481
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Motorvision TV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52987
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] FC Bayern TV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52995
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport News HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4685
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Austria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16044
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] DAZN 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52424
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] DAZN 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/52423
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] DAZN BAR 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/29411
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] DAZN BAR 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/29412
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 1 HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4686
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 2 HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/4687
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 3 HD (Match Time).
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16039
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 4 HD (Match Time).
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16038
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 5 HD (Match Time).
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16037
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 6 HD (Match Time).
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16036
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 7 HD (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16035
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 8 HD (Match Time).
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16034
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 9 HD (Match Time).
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16033
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 10 HD (Match Time).
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16032
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7809
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 2 HD (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7810
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 3 HD (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7811
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 4 HD (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16026
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 5 HD (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/7813
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 6 HD (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16024
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 7 HD (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16023
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 8 HD (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16022
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 9 HD (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16021
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 10 HD (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/16020
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport News 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51294
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Austria HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51295
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Fight Channel HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51225
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51293
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51292
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 3 4K  (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51291
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 4 4K  (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51290
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 5 4K  (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51289
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 6 4K  (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51288
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 7 4K  (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51287
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 8 4K  (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51286
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 9 HD (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51305
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 10 HD (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51304
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport 11 HD (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51303
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51302
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 2 4K  (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51301
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 3 4K  (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51300
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 4 4K  (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51299
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 5 4K  (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51298
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 6 4K  (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51297
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 7 4K  (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51296
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 8 4K (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51317
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 9 4K (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51316
+#EXTINF:-1 tvg-id="DE" tvg-name="DOC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://kodibalkan.com/IPTVROBINHOOD/TvLogo/IPTVLOGO/RobinHoodTv.png" group-title="PavooTv",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR] Sky Sport Bundesliga 10 4K (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PavooTv;url=http://193.200.164.106:8000/djS8dFqKMx/2XJmU8ReLV/51315
