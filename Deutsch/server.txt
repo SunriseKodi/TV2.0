@@ -17,7 +17,7 @@
 <channel>
 <name>[COLOR gold]test[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/test.m3u</externallink>
+<externallink>http://lopoteam.com/2g1K</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
