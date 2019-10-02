@@ -11,7 +11,7 @@
 </channel>
 
 <channels>
-<channel>
+channel>
 <name>[COLOR gold]test[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
 <externallink>http://psyco.tv/m3us2/1.m3u</externallink>
@@ -21,7 +21,7 @@
 
 
 <channels>
-<channel>
+channel>
 <name>[COLOR gold]test2[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test.m3u</externallink>
