@@ -33,7 +33,7 @@ channel>
 <channel>
 <name>[COLOR gold]Wagas[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>http://absolut-kodi.com/waga/wwstreams9-2019.xml</externallink>
+<externallink>http://wagasworld.com/Kodi/wagasworld.xml</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
