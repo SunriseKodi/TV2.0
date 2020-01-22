@@ -5,7 +5,7 @@
 <channel>
 <name>[COLOR gold]Server1[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Server1.m3u</externallink>
+<externallink>http://psyco.tv/m3us2/prem.m3u</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
@@ -33,7 +33,7 @@ channel>
 <channel>
 <name>[COLOR gold]Wagas[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
-<externallink>http://wagasworld.com/Kodi/wagasworld.xml</externallink>
+<externallink>http://wagasworld.com/Kodi/wwstreamportal.xml</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
 <info></info>
 </channel>
