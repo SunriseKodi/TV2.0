@@ -11,10 +11,10 @@
 </channel>
 
 <channels>
-channel>
+<channel>
 <name>[COLOR gold]test[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>http://psyco.tv/m3us2/1.m3u</externallink>
+<jsonrpc>plugin://plugin.video.tvone11/list_channels/26</jsonrpc>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
