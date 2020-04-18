@@ -5,7 +5,7 @@
 
 
 <item>
-<title>[B][I][COLOR red]TV One[COLOR beige][COLOR white][/B][/I][/COLOR]<title>
+<title>[B][I][COLOR gold]TV One[/COLOR]<title>
 <link>http://ignorame<link><thumbnail>https://raw.githubusercontent.com/Voodoo19/Voodoo-/master/Icons/German%20TV.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.tvone11/list_channels/26</jsonrpc>
 <info>[B][I][COLOR red]!!!! Stabiles IPTV gibt es bei ZAPTO TV!!!!
