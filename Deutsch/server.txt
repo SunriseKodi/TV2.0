@@ -28,10 +28,10 @@ Wir sind weiter fuer euch erreichbar in Telegram [/B][/I][/COLOR]  Fuer den Inha
 <item>
 
 <channels>
-channel>
-<name>[COLOR gold]test2[/COLOR]</name>
+<channel>
+<name>[COLOR gold]test[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test2.txt</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
