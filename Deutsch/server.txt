@@ -11,7 +11,7 @@
 </channel>
 
 <channels>
-<channel>
+channel>
 <name>[COLOR gold]test2[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
 <externallink>https://iptv-org.github.io/iptv/categories/entertainment.m3u</externallink>
