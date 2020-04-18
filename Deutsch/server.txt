@@ -14,7 +14,7 @@
 <channel>
 <name>[COLOR gold]voodoo[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/i8FQWG7X
+<externallink>https://pastebin.com/raw/i8FQWG7X</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
