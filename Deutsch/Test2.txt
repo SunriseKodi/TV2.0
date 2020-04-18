@@ -1,7 +1,7 @@
 <item>
 
 
-<item>
+item>
 <title>[B][I][COLOR red]Film[COLOR beige][COLOR white]tipps[/B][/I][/COLOR]<title>
 <link>http://ignorame<link><thumbnail>https://cdn.hdfilme.cc/img/e36152f3ef1337ed722dbcd07c66b258_thumb.jpg</thumbnail>	        <fanart>https://raw.githubusercontent.com/Voodoo19/Voodoo-/master/wallpaper2you_228251.jpg</fanart>
 <externallink>https://pastebin.com/raw/uzWwtEib</externallink>
@@ -11,7 +11,7 @@
 
 
 
-<item>
+item>
 <title>[B][I][COLOR red]TV One[COLOR beige][COLOR white]1[/B][/I][/COLOR]<title>
 <link>http://ignorame<link><thumbnail>https://raw.githubusercontent.com/Voodoo19/Voodoo-/master/Icons/German%20TV.jpg</thumbnail>	        <fanart>https://raw.githubusercontent.com/Voodoo19/Voodoo-/master/wallpaper2you_228251.jpg</fanart>
 <jsonrpc>plugin://plugin.video.tvone111/list_channels/25</jsonrpc>
@@ -22,7 +22,7 @@ Wir sind weiter fuer euch erreichbar in Telegram [/B][/I][/COLOR]  Fuer den Inha
 
 
 <item>
-<title>[B][I][COLOR red]TV One[COLOR beige][COLOR white]2[/B][/I][/COLOR]<title>
+<title>[B][I][COLOR red]TV One[COLOR beige][COLOR white][/B][/I][/COLOR]<title>
 <link>http://ignorame<link><thumbnail>https://raw.githubusercontent.com/Voodoo19/Voodoo-/master/Icons/German%20TV.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.tvone11/list_channels/26</jsonrpc>
 <info>[B][I][COLOR red]!!!! Stabiles IPTV gibt es bei ZAPTO TV!!!!
