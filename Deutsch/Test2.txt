@@ -6,10 +6,9 @@
 
 <item>
 <title>[B][COLOR gold]TV One[/COLOR]<title>
-<link>http://ignorame<link><thumbnail>https://raw.githubusercontent.com/Voodoo19/Voodoo-/master/Icons/German%20TV.jpg</thumbnail>
+<link>http://ignorame<link><thumbnail></thumbnail>
 <jsonrpc>plugin://plugin.video.tvone11/list_channels/26</jsonrpc>
-<info>[B][I][COLOR red]!!!! Stabiles IPTV gibt es bei ZAPTO TV!!!!
-Wir sind weiter fuer euch erreichbar in Telegram [/B][/I][/COLOR]  Fuer den Inhalt des addons uebernimmt VOODOO keine Verantwortung.</info>
+<info>[B][I][COLOR red]</info>
 <item>
 
 <item>
