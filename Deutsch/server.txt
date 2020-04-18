@@ -11,10 +11,10 @@
 </channel>
 
 <channels>
-channel>
-<name>[COLOR gold]test[/COLOR]</name>
+<channel>
+<name>[COLOR gold]voodoo[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<jsonrpc>plugin://plugin.video.tvone11/list_channels/26</jsonrpc>
+<externallink>https://pastebin.com/raw/i8FQWG7X
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
