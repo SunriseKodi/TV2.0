@@ -12,6 +12,14 @@
 Wir sind weiter fuer euch erreichbar in Telegram [/B][/I][/COLOR]  Fuer den Inhalt des addons uebernimmt VOODOO keine Verantwortung.</info>
 <item>
 
+<item>
+<title>[B][COLOR gold]TV Tap[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://raw.githubusercontent.com/Voodoo19/Voodoo-/master/Icons/German%20TV.jpg</thumbnail>
+<jsonrpc>plugin://script.module.7of9-live</jsonrpc>
+<info>[B][I][COLOR red]!!!! Stabiles IPTV gibt es bei ZAPTO TV!!!!
+Wir sind weiter fuer euch erreichbar in Telegram [/B][/I][/COLOR]  Fuer den Inhalt des addons uebernimmt VOODOO keine Verantwortung.</info>
+<item>
+
 
 
 
