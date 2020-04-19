@@ -2,7 +2,7 @@
 
 
 <channels>
-<channel>
+channel>
 <name>[COLOR gold]Server1[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</thumbnail>
 <externallink>http://psyco.tv/m3us2/1.m3u</externallink>
@@ -29,7 +29,7 @@ Wir sind weiter fuer euch erreichbar in Telegram [/B][/I][/COLOR]  Fuer den Inha
 
 <channels>
 <channel>
-<name>[COLOR gold]test[/COLOR]</name>
+<name>[COLOR gold]server 1[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test2.txt</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
