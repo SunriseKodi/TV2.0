@@ -2,7 +2,7 @@
 
 
 <channels>
-channel>
+<channel>
 <name>[COLOR gold]test server[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</thumbnail>
 <externallink>http://psyco.tv/NeXTMenu.xml</externallink>
