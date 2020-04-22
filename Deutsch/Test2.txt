@@ -11,7 +11,7 @@
 <info>[B][I][COLOR red]</info>
 <item>
 
-<item>
+item>
 <title>[B][COLOR gold]TV Tap[/COLOR]<title>
 <link>http://ignorame<link><thumbnail>https://raw.githubusercontent.com/Voodoo19/Voodoo-/master/Icons/German%20TV.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.unity</jsonrpc>
