@@ -12,9 +12,9 @@ channel>
 
 <channels>
 channel>
-<name>[COLOR gold]test2[/COLOR]</name>
+<name>[COLOR gold]server 1[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>https://iptv-org.github.io/iptv/categories/entertainment.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Server2.txt</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
@@ -29,7 +29,7 @@ Wir sind weiter fuer euch erreichbar in Telegram [/B][/I][/COLOR]  Fuer den Inha
 
 <channels>
 <channel>
-<name>[COLOR gold]server 1[/COLOR]</name>
+<name>[COLOR gold]server 2[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test2.txt</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
