@@ -3,8 +3,8 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]test[/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test4.txt</thumbnail>
+<name>[COLOR gold]vv[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test4.txt</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</fanart>
 <info></info>
