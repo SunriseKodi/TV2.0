@@ -2,9 +2,9 @@
 
 
 <channels>
-channel>
+<channel>
 <name>[COLOR gold]test server[/COLOR]</name>
-<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</thumbnail>
+<thumbnail>http://www.vjackson.info//live/index</thumbnail>
 <externallink>http://psyco.tv/NeXTMenu.xml</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</fanart>
 <info></info>
