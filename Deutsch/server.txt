@@ -4,7 +4,7 @@
 <channels>
 <channel>
 <name>[COLOR gold]test server[/COLOR]</name>
-<thumbnail>http://www.vjackson.info//live/index</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test4.txt</thumbnail>
 <externallink>http://psyco.tv/NeXTMenu.xml</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</fanart>
 <info></info>
