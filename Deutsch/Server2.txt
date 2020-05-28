@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Das Erste HD DE
-http://mytv.fun:8080/Ustaxheladini/k87g8ju5kh/13166
+http://50.7.206.50:8000/a/willene/live/5057.ts 
 #EXTINF:-1,Das Erste DE
 http://mytv.fun:8080/Ustaxheladini/k87g8ju5kh/6256
 #EXTINF:-1,Das Erste (Backup) DE
