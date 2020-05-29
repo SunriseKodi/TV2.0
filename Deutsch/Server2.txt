@@ -1,4 +1,6 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-name="DRAMA HD UAE (1)" group-title="[[AD]] Andorra",DRAMA HD UAE (1) http://50.7.230.178:8000/a/willene/live/24591.ts #EXTINF:-1 tvg-name="EMARAT HD UAE (1)" group-title="[[AD]] Andorra",EMARAT HD UAE (1) http://50.7.132.18:8000/a/willene/live/24592.ts #EXTINF:-1 tvg-name="NAT GEO HD UAE (1)" group-title="[[AD]] Andorra",NAT GEO HD UAE (1) http://198.16.100.114:8000/a/willene/live/24593.ts #EXTINF:-1 tvg-name="1TV AFGHAN (3)" group-title="Afghanistan",1TV AFGHAN (3) http://50.7.230.178:8000/a/willene/live/21742.ts #EXTINF:-1 tvg-name="AFG: 1TV FHD (4)" group-title="Afghanistan",AFG: 1TV FHD (4) http://50.7.230.178:8000/a/willene/live/25616.ts #EXTINF:-1 tvg-name="AFG: AMC TV (4)" group-title="Afghanistan",AFG: AMC TV (4) http://50.7.132.18:8000/a/willene/live/25617.ts #EXTINF:-1 tvg-name="AFG: AREZO (4)" group-title="Afghanistan",AFG: AREZO (4) http://198.16.100.114:8000/a/willene/live/25618.ts #EXTINF:-1 tvg-name="AFG: ARIANA AFGHAN (4)" group-title="Afghanistan",AFG: ARIANA AFGHAN (4) http://198.16.100.154:8000/a/willene/live/25619.ts #EXTINF:-1 tvg-name="AFG: ARIANA INTERNATIONAL (4)" group-title="Afghanistan",AFG: ARIANA INTERNATIONAL (4) http://50.7.230.122:
 #EXTINF:-1,Das Erste HD DE
 http://50.7.206.50:8000/a/willene/live/5057.ts 
 #EXTINF:-1,Das Erste DE
