@@ -5,7 +5,7 @@
 <channel>
 <name>[COLOR gold]vv[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>http://repo.stube.org/tvlist/menu.xml</externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test.m3u</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
